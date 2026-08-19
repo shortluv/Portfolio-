@@ -131,10 +131,3 @@ footer a{color:#999}
   .ai-note-inner{padding:25px;display:block}.ai-icon{margin-bottom:10px}
   .metrics{flex-wrap:wrap}
 }
-img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    object-fit: cover;
-    image-rendering: auto;
-}
